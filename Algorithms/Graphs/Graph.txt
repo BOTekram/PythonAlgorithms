@@ -1,0 +1,18 @@
+Graph
+
+A graph contains:
+- a set of vertices (points also known as nodes)
+- a set of edges (lines that connect the vertices)
+    - These lines can be directed or undirected
+
+Simple Graphs - no loops (self edges) or multiple edges
+
+Tree
+A tree is a graph without any cycle (no loops)
+
+
+
+
+
+
+
